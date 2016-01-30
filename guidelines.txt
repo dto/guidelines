@@ -1,0 +1,40 @@
+ Lisp Games Community Guidelines
+-------------------------------------------------------------------
+
+Let it be observed that the Lisp game development community is not
+limited to any one nation, creed, color, or gender; also that we are
+not bound to any single website, platform, codebase, or dialect.
+
+In addressing conduct which the community frowns upon, we first and
+foremost defer to the rules already governing the forum where the
+conduct occurs---Freenode in the case of IRC, Reddit in the case of
+/r/lisp, and so on. Users already agree to such rules when they log
+onto Freenode, create a Reddit account, and so on.
+
+We pledge to follow these guidelines:
+
+1. Please do not issue threats or use hostile language or personal
+   insults in communication with your fellow community members.
+   
+2. Please work together to solve conflicts in good faith. 
+
+3. Please do not use discriminatory epithets against your fellow
+   community members, whether directed at those present or at others
+   who are absent.
+
+4. Please do not bully, harass, defame, or ostracize your fellow
+   community members, participate in "social media shaming", or
+   contact (or assist or encourage others to contact) a particular
+   person and/or their employers, coworkers, clients, family, friends,
+   university, other projects or communities, or any other third party
+   with nasty messages, allegations, or other negative information
+   about that person, whether such contact is publicly or privately
+   orchestrated.
+
+5. Allegations of wrongdoing or criminal behavior must be referred to
+   law enforcement. If you believe yourself or another person to be in
+   danger, or if you have reason to believe that a crime has been or
+   will be committed, call the police. Community members shall not
+   attempt to litigate or investigate allegations of wrongdoing or
+   criminal behavior in any other way than by immediately referring
+   such claims to law enforcement authorities.
